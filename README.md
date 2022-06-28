@@ -1,8 +1,4 @@
-# template-react-vite-js
+Premiers pas avec Redux dans react
 
-Template d'une application react-vite en JS
-
-Pour l'utiliser, fork le repo, utilise le template, n'oublie pas le npm install ;)
-Pour lancer ton app -> npm run dev
-
-Enjoy :) 
+https://react-redux.js.org/
+https://www.youtube.com/watch?v=QLiox52HG4U
